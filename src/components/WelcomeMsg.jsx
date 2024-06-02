@@ -1,4 +1,4 @@
-const WelcomeMsg = ({ OnGetPostClick }) => {
+const WelcomeMsg = () => {
   return (
     <>
       <center>
